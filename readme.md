@@ -19,19 +19,19 @@ Stick to this rhythm to allow your 37-year-old joints to recover while keeping y
 Perform these 5 moves in a circle. Rest 60 seconds only after completing all five. Aim for 3–4 rounds.
 
    1. Goblet Squats (12 Reps): Hold 1 DB at chest height. Sit deep until thighs are parallel to the floor.
-   <img src="images/global_squat.jpeg" width="100%">
+   <img src="images/global_squat.jpeg" width="60%">
 
    2. Dumbbell Lunges (10 Reps/Leg): Hold DBs at sides. Step forward until both knees hit 90 degrees.
    <img src="images/dumbbell-static-lunge.webp" width="100%">
 
    3. Overhead Press (10 Reps): Stand tall, push DBs from shoulders to ceiling. Squeeze glutes to protect your back.
-   <img src="images/dumbbell-standing-overhead-press.webp" width="100%">
+   <img src="images/dumbbell-standing-overhead-press.webp" width="60%">
 
    4. Dumbbell Rows (12 Reps): Lean forward 45 degrees with flat back. Pull DBs to your hips, squeezing shoulder blades.
-   <img src="images/bentoverrow_dumbbell_full_large.png" width="100%">
+   <img src="images/bentoverrow_dumbbell_full_large.png" width="60%">
 
    5. Weighted Plank (45 Secs): Standard elbow plank with a weight plate or small DB on your lower back.
-   <img src="images/plank.jpeg" width="100%">
+   <img src="images/plank.jpeg" width="60%">
 
 ------------------------------
 3. The 10-Minute Treadmill "Belly Finisher"
